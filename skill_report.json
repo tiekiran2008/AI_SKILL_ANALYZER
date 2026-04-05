@@ -1,0 +1,26 @@
+{
+    "metrics": {
+        "Arrays": {
+            "score": 83.6,
+            "time_taken": 48.8
+        },
+        "Python": {
+            "score": 90.83333333333333,
+            "time_taken": 36.666666666666664
+        },
+        "Recursion": {
+            "score": 60.0,
+            "time_taken": 80.0
+        },
+        "UI/UX": {
+            "score": 75.5,
+            "time_taken": 50.5
+        }
+    },
+    "insights": [
+        "Strong performance in Python",
+        "Needs improvement in Recursion",
+        "Taking more time on Recursion"
+    ],
+    "dashboard_message": "You are performing well overall. Focus more on improving weaker topics and managing time efficiently."
+}
